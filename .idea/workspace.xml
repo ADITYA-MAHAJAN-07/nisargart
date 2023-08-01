@@ -3,7 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="ba1fac88-b19a-48c7-b8c5-ce384de62e12" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Photography/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Photography/Readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Photography/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/Photography/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Photography/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Photography/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Photography/gallery-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/Photography/gallery-single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Photography/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/Photography/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Photography/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Photography/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Photography/sample-inner-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/Photography/sample-inner-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Photography/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/Photography/services.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
